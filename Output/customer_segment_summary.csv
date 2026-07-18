@@ -1,0 +1,11 @@
+Customer_Segment,Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Total_Revenue
+About to Sleep,15485,367.6,1.04,170.02,2632704.69
+At Risk,7562,525.71,1.07,170.6,1290096.22
+Champions,6712,141.03,1.19,317.5,2131028.81
+Hibernating,11565,473.21,1.0,163.06,1885843.38
+Lost Customers,7577,398.68,1.0,156.87,1188593.62
+Loyal Customers,16441,201.36,1.06,115.79,1903655.27
+Need Attention,7583,271.36,1.0,151.88,1151704.92
+New Customers,3834,95.54,1.0,162.14,621642.17
+Potential Loyalists,15450,140.89,1.0,165.46,2556341.69
+Promising,3886,186.95,1.0,166.56,647261.35

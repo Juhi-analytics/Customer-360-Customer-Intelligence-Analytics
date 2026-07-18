@@ -1,0 +1,26 @@
+# Core Data Analysis
+pandas>=2.2.0
+numpy>=2.0.0
+
+# Visualization
+matplotlib>=3.10.0
+
+# Excel Support
+openpyxl>=3.1.5
+
+# Jupyter Notebook
+jupyter>=1.1.1
+ipykernel>=6.29.5
+
+# SQL Database Connection
+SQLAlchemy>=2.0.36
+pymysql>=1.1.1
+
+# Data Visualization (Optional but Recommended)
+plotly>=6.0.0
+
+# Statistical Analysis
+scipy>=1.15.0
+
+# Machine Learning Utilities (Optional)
+scikit-learn>=1.6.0
